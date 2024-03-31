@@ -1,5 +1,5 @@
 django
-tabla-py
+tabula-py
 pypdf
 PyMuPDF
 camelot-py
